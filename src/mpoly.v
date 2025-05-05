@@ -77,7 +77,11 @@
 (* -------------------------------------------------------------------------- *)
 
 (* -------------------------------------------------------------------- *)
+<<<<<<< HEAD
 From Corelib Require Import Setoid.
+=======
+From Stdlib Require Import Setoid.
+>>>>>>> b743fdb (Coq -> Stdlib)
 From HB Require Import structures.
 From mathcomp Require Import ssreflect ssrfun ssrbool eqtype ssrnat seq path.
 From mathcomp Require Import choice fintype tuple finfun bigop finset binomial.
